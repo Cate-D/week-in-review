@@ -1,4 +1,12 @@
 h1 {
-  font-weight: bold;
-  color: blue;
+  color: mintcream;
+} 
+
+body {
+  background-color: mediumaquamarine;
+} 
+
+.img {
+  float: left; 
+  margin: 20px;
 }
